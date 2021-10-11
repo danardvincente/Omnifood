@@ -1,0 +1,14 @@
+{
+    "icons": [
+        {
+            "src": "img/andriod/ic_launcher.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "img/andriod/playstore.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
